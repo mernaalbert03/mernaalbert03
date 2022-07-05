@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Merna Albert 
-- 👀 I’m interested in Robotics,AI,Astrophysics
+- 👀 I’m interested in Robotics,AI and Astrophysics
 - 🌱 I’m currently learning Machine learning and C++
 - 📫 How to reach me ?
        My Linkedin Profile:
